@@ -19,7 +19,7 @@ A simple converter script that will convert .doc obtained from these sites:
 * [2015-2019 General](http://ncvec.org/page.php?id=364)
 * [2016-2020 Extra](http://www.ncvec.org/page.php?id=365)
 
-### [Webpage](https://github.com/gravypod/ButcherSchool/site/)
+### [Webpage](https://github.com/gravypod/ButcherSchool/tree/master/site)
 
 All of the stuff needed to actually host the website. It's a single js and html file. This is designed to be as simple as possible. 
 
