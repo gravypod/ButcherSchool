@@ -11,7 +11,7 @@ Well... more programs the answers into you. It'll give you questions repeatedly 
 What are these files?
 ---------------------
 
-### [Converter Script](https://github.com/gravypod/ButcherSchool/converter/convert.py)
+### [Converter Script](https://github.com/gravypod/ButcherSchool/blob/master/converter/convert.py)
 
 A simple converter script that will convert .doc obtained from these sites:
 
